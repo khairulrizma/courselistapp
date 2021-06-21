@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/courselistapp/static/css/main.c8e6cfff.chunk.css",
+    "main.js": "/courselistapp/static/js/main.b153c46e.chunk.js",
+    "main.js.map": "/courselistapp/static/js/main.b153c46e.chunk.js.map",
+    "runtime-main.js": "/courselistapp/static/js/runtime-main.ff2b5bdd.js",
+    "runtime-main.js.map": "/courselistapp/static/js/runtime-main.ff2b5bdd.js.map",
+    "static/js/2.0c8e1f67.chunk.js": "/courselistapp/static/js/2.0c8e1f67.chunk.js",
+    "static/js/2.0c8e1f67.chunk.js.map": "/courselistapp/static/js/2.0c8e1f67.chunk.js.map",
+    "index.html": "/courselistapp/index.html",
+    "static/css/main.c8e6cfff.chunk.css.map": "/courselistapp/static/css/main.c8e6cfff.chunk.css.map",
+    "static/js/2.0c8e1f67.chunk.js.LICENSE.txt": "/courselistapp/static/js/2.0c8e1f67.chunk.js.LICENSE.txt",
+    "static/media/img2.98a2d5f5.jpg": "/courselistapp/static/media/img2.98a2d5f5.jpg",
+    "static/media/img3.4cab21c3.jpg": "/courselistapp/static/media/img3.4cab21c3.jpg",
+    "static/media/img7.cb262510.jpg": "/courselistapp/static/media/img7.cb262510.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff2b5bdd.js",
+    "static/js/2.0c8e1f67.chunk.js",
+    "static/css/main.c8e6cfff.chunk.css",
+    "static/js/main.b153c46e.chunk.js"
+  ]
+}
